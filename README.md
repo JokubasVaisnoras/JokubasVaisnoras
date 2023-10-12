@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JokubasVaisnoras
 - 👀 I’m interested in Web and App development 📱
-- 🌱 I’m currently learning Front-end -> React Native and Backend -> Python
+- 🌱 I have 3 years of experience in web development
 - 📫 Reach out o me on Linkedin -> https://www.linkedin.com/in/jokubas-vaisnoras-7a300a166
 
 <!---
