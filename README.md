@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JokubasVaisnoras
-- 👀 I’m interested in Web and App development 📱
-- 🌱 I have 3 years of experience in web development
+- 🌱 I have 3 years of professional experience in software engineering
 - 📫 Reach out o me on Linkedin -> https://www.linkedin.com/in/jokubas-vaisnoras-7a300a166
 
 <!---
